@@ -1,0 +1,272 @@
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+C:\Users\GD6\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+C:\Users\GD6\Downloads\마지막 백업\마지막 백업\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+F:\project\1101\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+F:\project\1101\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+F:\project\1101\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+F:\project\1101\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+F:\project\1101\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+F:\project\1101\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+F:\project\1101\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+F:\project\1101\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+F:\project\1101\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+C:\Users\kys45\Desktop\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\project\1102\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.AboutBox1.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.AboutBox1.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\1104\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.AboutBox1.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+C:\Users\kys45\source\repos\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.AboutBox1.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CoreCompileInputs.cache
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+C:\Users\kys45\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.AboutBox1.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+C:\Users\GD6\Desktop\야간\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+E:\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+E:\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+E:\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+E:\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.dll
+E:\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+E:\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+E:\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+E:\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.AboutBox1.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+E:\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csprojAssemblyReference.cache
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.AboutBox1.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardInsUpForm.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.BoardShow.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Form1.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Login.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MemberFind.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumInsUpForm.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.MuseumShow.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Properties.Resources.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.Register.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.ResetPassword.resources
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.GenerateResource.cache
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CoreCompileInputs.cache
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.exe
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.pdb
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe.config
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.exe
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\bin\Debug\TrainMuseum.pdb
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\bin\Debug\Google.Protobuf.dll
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\bin\Debug\Renci.SshNet.dll
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\bin\Debug\BouncyCastle.Crypto.dll
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\bin\Debug\MySql.Data.xml
+D:\백업용\microsd32기가 학원용\TrainMuseum\TrainMuseum\obj\Debug\TrainMuseum.csproj.CopyComplete
